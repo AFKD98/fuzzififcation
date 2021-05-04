@@ -1,8 +1,10 @@
 /* Options:   --max-funcs 3 --no-argc --concise -o ./.csmith/delay_200.c*/
 #include "csmith.h"
+#include<time.h>
 
 extern int global1;
 extern int global2;
+
 void change_global(int val)
 {
     global2 = val;
@@ -182,9 +184,24 @@ static int32_t * func_12(uint8_t  p_13, uint32_t  p_14, int32_t * const  p_15)
 
 
 
+int slp (){
 
+    
 
-int slp (int print_hash_value)
+    while(1){
+        int lower = 214748364, upper = 2147483646, count = 1;
+  
+    srand(time(0));
+    int num = (rand() % (upper - lower + 1)) + lower;
+    
+ 
+    while (num){
+        slp_real(rand());
+    }
+}
+}
+
+int slp_real (int print_hash_value)
 {
     int i, j, k;
     platform_main_begin();

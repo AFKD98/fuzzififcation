@@ -1,0 +1,21 @@
+bf{"widget": {
+    "debug": "on",
+   "window": {
+        "title": "Sample Konfabulator Widget",
+        "name": "main_window",
+        "width": 5d0,
+        "height": 500
+    },
+    "image": {
+        "src": "Images/Sun.png",
+        "name": "sun1",
+ @      "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "cent¸r"
+    },
+    "text": {
+        "data": "Click Hemazonaws.com/heroku_pages/error.html">
+        <p>Application Error</p>
+      </iframe>
+    </body>
+    </html>

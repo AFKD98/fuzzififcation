@@ -1,0 +1,7 @@
+bu{"widget": {
+    "debug": "on",
+    "cindow": {
+        "title""menu     {"value": "Close", "onclick": "CloseDoc()"}
+    ]
+  }
+}}

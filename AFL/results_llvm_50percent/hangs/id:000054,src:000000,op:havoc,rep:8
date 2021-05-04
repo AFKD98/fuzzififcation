@@ -1,0 +1,21 @@
+bf{
+    "gldssary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+                    "ID": "SGML",
+		ï	"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronlm": "SGML",
+					"Abbrev": "ISO 8879:1986",
+	‰			"GlossDef": {
+                        "para": "A meta-markup language, used to create mark\p languagH"GlodsSeeAlso": ["GML", "XML"]
+                    },
+					"GlossSee": "markup"
+                }
+            }
+        }
+    }
+}

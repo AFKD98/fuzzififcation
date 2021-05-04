@@ -1,0 +1,13 @@
+uf{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+        "name": "main_window",
+        "width": 500": 00
+    },
+ `  "image": {îd       "src": "Hmages/Sun.png",
+	       ÿÿÿe": "sun1",
+        "hOffset": 250,
+        "vOffs00) * 90;"
+    }
+}}

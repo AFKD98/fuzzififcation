@@ -1,0 +1,8 @@
+uf{"widget"? {
+    "debug": "on",
+    "windok": {
+            null,
+        {"id": "Help"},
+        aid": "About", "label": "About Adobe CVG Viewer..."}
+    ]
+}}

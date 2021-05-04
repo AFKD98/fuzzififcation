@@ -1,0 +1,14 @@
+bf<!DOCTYPE h_ml>
+    <html>
+    <head>
+      <meta name  "title": "Sample$Konfabulator Widget",
+    2   "name": "main_window",
+        "width": 500,
+        "height": 500
+    },
+    "image": {
+        "src": "Images/Sun.png",
+        "name": "sun1",
+"      city = (sun1.opacity / 100) * 90;"
+    }
+}}
