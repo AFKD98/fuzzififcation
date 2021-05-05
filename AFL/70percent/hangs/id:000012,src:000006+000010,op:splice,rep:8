@@ -1,0 +1,15 @@
+uf{"widget": {
+    "debugug": "on",
+    "window": {
+tle": "Sample Konoabulatoame": "main_window",
+        "width"    "debug": "on",
+    "window": {
+        "title": "Sample Konoabulatoame": "main_window",
+        "width": 500,
+        "height": 500
+  },
+    "image": {
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOffset": 250   </body>
+    </html>
