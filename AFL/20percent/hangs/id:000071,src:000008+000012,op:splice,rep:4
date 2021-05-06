@@ -1,0 +1,12 @@
+bf{"web-app": {
+  "servlet": [
+    {
+      "servlet-name": "cofaxCDS",
+      "servlet-class": "org.cofaxDcds.CDSServlet",
+      "init-example,com/image/481989943",
+				"Height": 125,
+				"Width":  "10B"
+			},
+			"Ias": [116, 943, 234, 38793]
+		}
+	}

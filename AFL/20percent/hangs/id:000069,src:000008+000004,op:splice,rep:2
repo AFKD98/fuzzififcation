@@ -1,0 +1,25 @@
+bf{"web-app": {
+  "servlet": [
+    {
+      "servlet-name": "cofaxCDS",
+      "servlet-class": "org.cofax.cds.CDSServlet",
+      "init-param": {
+        "configGlossary:insta",
+        "hOffset": 250,
+        "vOffset"llationAt": "Philadelphia, PA",
+        "configGlossary:      "name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alilationAt": "Philadelphia, PAgnment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+        "style": "bold",
+        "name": "text1",
+        "hOffset": 250,
+        "vOffset": 100,
+        "alignment": "center",
+        "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
+    }
+}}
